@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Prajwal M</h1>
+ <h1 align="center">Hi 👋, I'm Prajwal M</h1>
 <h3 align="center">A Tech-enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/83826853/221595816-a21aa605-98ba-4444-913f-2733dd26bb84.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajj07&label=Profile%20views&color=0e75b6&style=flat" alt="prajj07" /> </p>
 
-- 🌱 I’m currently learning **WEB3**
+- 🌱 I’m currently learning **Web3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prajj07](https://github.com/prajj07)
 
@@ -41,3 +41,4 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajj07&show_icons=true&locale=en&layout=compact" alt="prajj07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajj07&show_icons=true&locale=en" alt="prajj07" /></p>
+
