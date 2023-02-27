@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Prajwal M</h1>
 <h3 align="center">A Tech-enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/83826853/221595816-a21aa605-98ba-4444-913f-2733dd26bb84.png
-">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/83826853/221595816-a21aa605-98ba-4444-913f-2733dd26bb84.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajj07&label=Profile%20views&color=0e75b6&style=flat" alt="prajj07" /> </p>
 
