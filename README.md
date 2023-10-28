@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajj07&label=Profile%20views&color=0e75b6&style=flat" alt="prajj07" /> </p>
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Tech-stacks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prajj07](https://github.com/prajj07)
 
-- 📝 I regularly write articles on [https://prajj07.blogspot.com/](https://prajj07.blogspot.com/)
+- 📝 I sometimes write articles on [https://prajj07.blogspot.com/](https://prajj07.blogspot.com/)
 
 - 📫 How to reach me **prajwalvm10@gmail.com**
 
