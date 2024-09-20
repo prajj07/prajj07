@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/prajj07](https://github.com/prajj07)
 
-- 📝 I sometimes write articles on [https://prajj07.blogspot.com/](https://prajj07.blogspot.com/)
-
 - 📫 How to reach me **prajwalvm10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
